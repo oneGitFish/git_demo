@@ -4,3 +4,5 @@ three change ----auther: samsung
 four change ----auther:lenvovo remote lenovo change four change ----auther: dev samsung
 master dev change remote samsang change
 new add a line ------samsung
+
+rename file name add
